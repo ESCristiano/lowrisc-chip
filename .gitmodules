@@ -34,3 +34,6 @@
 [submodule "opensocdebug/software"]
 	path = opensocdebug/software
 	url = https://github.com/opensocdebug/software
+[submodule "fpga_lockstep/board/FPGA_Lockstep"]
+	path = fpga_lockstep/board/FPGA_Lockstep
+	url = https://github.com/ESCristiano/FPGA_Lockstep.git
